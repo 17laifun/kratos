@@ -1217,14 +1217,6 @@ CSF::createSection($prefix, array(
         array(
             'type' => 'content',
             'content' => __('主题源码使用 <a href="https://github.com/seatonjiang/kratos/blob/main/LICENSE" target="_blank">GPL-3.0 协议</a> 进行许可，说明文档使用 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a> 进行许可。', 'kratos'),
-        ),
-        array(
-            'type' => 'subheading',
-            'content' => __('打赏支持', 'kratos'),
-        ),
-        array(
-            'type' => 'content',
-            'content' => '如果您有用到我开发维护的项目，请考虑支持一下我的工作，让我可以持续的维护它们，您可在爱发电（<a href="https://afdian.com/a/seatonjiang" target="_blank">https://afdian.com/a/seatonjiang</a>）中进行打赏，谢谢！',
-        ),
+        )
     ),
 ));
